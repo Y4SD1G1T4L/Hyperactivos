@@ -163,7 +163,7 @@ a:focus {
 }
 
 .navbar-brand img {
-  width: 350px;
+  width: 400px;
 }
 
 .navbar-brand span {
@@ -191,7 +191,7 @@ a:focus {
 
 .custom_nav-container .navbar-toggler .navbar-toggler-icon {
   background-image: url(../images/menu.png);
-  background-size: 35px;
+  background-size: 0px;
 }
 
 /*end header section*/
@@ -208,7 +208,7 @@ a:focus {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  height: 75%;
+  height: 95%;
 }
 
 .hero_section h1 {
