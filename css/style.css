@@ -95,7 +95,7 @@ body {
 }
 
 .header_section .container-fluid {
-  padding-right: 0px;
+  padding-right: 25px;
   padding-left: 25px;
 }
 
@@ -163,7 +163,7 @@ a:focus {
 }
 
 .navbar-brand img {
-  width: 45px;
+  width: 95px;
 }
 
 .navbar-brand span {
