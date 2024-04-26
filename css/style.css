@@ -208,7 +208,7 @@ a:focus {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  height: 95%;
+  height: 45%;
 }
 
 .hero_section h1 {
