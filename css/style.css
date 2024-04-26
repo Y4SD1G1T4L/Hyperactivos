@@ -22,14 +22,20 @@
   font-weight: bold;
 }
 
+@font-face {
+  font-family: "impact";
+  src: url("../fonts/impact/impact.ttf") format("ttf");
+  font-weight: 400;
+}
+
 h1,
 h2,
 h3 {
-  font-family: "Ethnocentric";
+  font-family: "impact";
 }
 
 body {
-  font-family: "poppins", sans-serif;
+  font-family: "impact";
   color: #101010;
   background-color: #ffffff;
 }
